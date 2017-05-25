@@ -1,5 +1,5 @@
 # Salario-Freelance
-# Criado Por Gustavo Francisco.
+ Criado Por Gustavo Francisco.
 
 É um web site para você consultar o preço da sua hora de trabalho.
 
